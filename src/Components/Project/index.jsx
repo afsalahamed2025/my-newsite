@@ -13,7 +13,7 @@ const Project = () => {
   useGSAP(
     () => {
       const timeline = gsap.timeline({
-        delay: 0.5,
+        delay: 0.2,
         scrollTrigger: {
           trigger: container.current,
           start: "20% bottom",
