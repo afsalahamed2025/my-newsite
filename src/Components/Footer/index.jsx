@@ -19,7 +19,7 @@ const Footer = () => {
                   className="control"
                 />
              
-                <a  href="https://wa.me/917708689622"   className="btn" type="button">
+                <a  href="https://chat.whatsapp.com/B4rVBUlcjzpIxTvTrS5CPV"   className="btn" type="button">
                  Join
                 </a>
               </div>
