@@ -74,8 +74,13 @@
     padding: 40px 20px;
 }
 #footer .copyright .container .afsal{
-    font-weight: 900;
+    font-weight: 400;
     color: black;
+}
+#footer .copyright .container .afsal span{
+    font-weight: 900;
+    font-size: 19px ;
+    color: var(--color-primary);
 }
 #footer .copyright h3{
     font-size: 16px;

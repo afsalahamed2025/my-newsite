@@ -44,7 +44,7 @@ const Footer = () => {
       <div className="copyright">
         <div className="container">
           <h3>Copyright &copy; All right  reserved -| 2025</h3> 
-          <p className="text__muted afsal">Built with love by Afsal Ahamed</p>
+          <p className="text__muted afsal">Built with love by <span> Afsal Ahamed </span> </p>
         </div>
       </div>
     </footer>
